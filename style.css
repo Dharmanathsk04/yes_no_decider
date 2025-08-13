@@ -1,0 +1,71 @@
+body{
+
+    background: linear-gradient(to right,#232526,#441345);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box{
+
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.4);
+    box-shadow:  0 0 20px #00ffc3;
+}
+
+button{
+
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #00ffc3;
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+
+button:hover{
+
+    background-color: #00caa6;
+}
+
+#answer{
+
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
